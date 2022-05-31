@@ -1,3 +1,3 @@
-# first practice
+# first Practice
 
-Hi,
+Hi, this is my first try
